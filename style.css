@@ -1,0 +1,14 @@
+.container{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+h1 {
+    color: #1C4C99;
+    margin-top: 40%;
+  }
+  
+  #price {
+    font-size: 3em;
+}

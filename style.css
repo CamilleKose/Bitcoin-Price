@@ -4,11 +4,21 @@
   text-align: center;
 }
 
+body{
+  text-align: center;
+  background-image: url(img/bitcoinwall.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
 h1 {
-    color: #1C4C99;
-    margin-top: 40%;
+    color: #04134A;
+    margin-top: 20%;
+    font-size: 2.8em;
   }
   
   #price {
     font-size: 3em;
+    color: #04134A;
+    font-weight: bolder;
 }
